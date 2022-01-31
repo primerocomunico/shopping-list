@@ -1,5 +1,5 @@
 # ShoppingList App | Backend - Frontend
-## Backend 👨‍💻
+## Backend 👨‍💻 [`backend` folder]
 
 This project was generated with [Node JS](https://nodejs.org/en/) version 16.13.2.
 
@@ -11,7 +11,7 @@ Run `npm run start` for a dev server. Navigate to `http://localhost:3000/`. The 
 
 All the data read, create, edit and delete from the file `data.json`
 
-## Frontend 🧑‍💻
+## Frontend 🧑‍💻 [`shopping-list` folder]
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.0.
 ### Development server
@@ -26,9 +26,9 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 You have two routes:
 1. **Home**, for showing the shopping list.
-![Screen view of home page](src/assets/shopping-list-home.png)
+![Screen view of home page](shopping-list-home.png)
 
 2. **Add**, for adding a new item in the shopping list.
-![Screen view of add item page](src/assets/shopping-list-add.png)
+![Screen view of add item page](shopping-list-add.png)
 
 ## Have fun! 😄
